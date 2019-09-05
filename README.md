@@ -1,5 +1,7 @@
 # hello-world
 gotta start with the basics, eh?
 
-I'm nateo, im somewhere between an engineer, a developer, and a storywriter.
-I like to think i'm from Canada, though I'm more from Detroit than from anywhere else.
+I am nateo, I am somewhere between an engineer, a developer, and a storywriter.
+I'm more from Detroit than from anywhere else, but I will still occasionally identify as a Canadian.
+
+I work for BYU's Office of Information Technology as a Student Engineer on the BYU OIT Monitoring Team.
