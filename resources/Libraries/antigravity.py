@@ -1,3 +1,5 @@
+import antigravity
+
 antigrav_img_url = "https://imgs.xkcd.com/comics/python.png"
 
 def fly(user):
